@@ -1,1 +1,1 @@
-# GURPS_catalogue
+# GURPS catalogue
