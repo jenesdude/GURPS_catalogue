@@ -1,4 +1,4 @@
-package src.main.java.com.gurps.model;
+package com.gurps.model;
 
 public class Trait {
 
